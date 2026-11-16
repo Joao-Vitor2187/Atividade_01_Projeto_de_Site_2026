@@ -6,7 +6,7 @@ Testes automáticos executados em 07/11/2026. Os testes manuais abaixo precisam 
 Nu Html Checker (mesmo motor do validador do W3C) nas 10 páginas HTML e no `css/style.css`: **0 erros e 0 avisos**. Para anexar print: https://validator.w3.org/ → "Validate by File Upload".
 
 ## Links e âncoras (automático)
-Todos os `href` e `src` locais e âncoras (`#apoie`, `#ods`, `#form-contato`) apontam para arquivos e ids existentes: **0 problemas**.
+[Todos os `href` e `src` locais e âncoras (`#apoie`, `#ods`, `#form-contato`) apontam para arquivos e ids existentes: **0 problemas**.](https://validator.w3.org/nu/?doc=https%3A%2F%2Fatividade-01-av-a2-projeto-de-site-2-2026-production.up.railway.app%2F)
 
 ## Contraste WCAG AA (cálculo)
 | Par de cores | Razão | Mínimo |
